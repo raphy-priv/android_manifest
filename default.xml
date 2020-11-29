@@ -854,4 +854,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Add all ShapeShiftOS repos -->
+  <include name="snippets/ssos.xml" />
+
 </manifest>
