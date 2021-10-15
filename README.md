@@ -93,7 +93,7 @@ Credits
 ##### Initializing the ShapeShiftOS repo and downloading the manifest
 
 ```bash
-      repo init -u https://github.com/ShapeShiftOS-WIP/android_manifest.git -b android_12
+      repo init -u https://github.com/raphy-priv/android_manifest.git -b android_12
 ```
 
 ##### Syncing the source
